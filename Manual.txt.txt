@@ -1,0 +1,12 @@
+PROGRAMA ALMACENAMIENTO DE DATOS DE ALUMNOS DE UNA CLASE
+========================================================
+
+MANUAL DE INSTRUCCIONES
+-----------------------
+Este fastuoso programa permite almacenar los nombres de los alumnos de una clase y luego los lista por pantalla. Vaya introduciendo nombres hasta que se le deje de preguntar, luego el programa los listará en el mismo orden enque se metieron. Muy útil, ¿no?...
+
+
+
+LISTA DE VERSIONES
+------------------
+1.0 - El programa permite procesar hasta 10 alumnos
