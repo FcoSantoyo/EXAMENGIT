@@ -13,7 +13,8 @@ Algoritmo sin_titulo
 		leer nombre[i];
 	FinPara
 	
-	// listamos los alumnos
+	// listamos los alumnos 
+	//ESTE COMENTARIO ES NUEVO
 	
 	Para i<-0 hasta 10 Hacer
 		
