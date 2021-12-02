@@ -6,6 +6,7 @@ MANUAL DE INSTRUCCIONES
 Este fastuoso programa permite almacenar los nombres de los alumnos de una clase y luego los lista por pantalla. Vaya introduciendo nombres hasta que se le deje de preguntar, luego el programa los listará en el mismo orden enque se metieron. Muy útil, ¿no?...
 
 ededewfweewfewfew es nuevo tmb
+pues otro comentario nuevo
 
 LISTA DE VERSIONES
 ------------------
