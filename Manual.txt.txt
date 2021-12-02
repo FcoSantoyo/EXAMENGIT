@@ -7,7 +7,7 @@ Este fastuoso programa permite almacenar los nombres de los alumnos de una clase
 
 ededewfweewfewfew es nuevo tmb
 pues otro comentario nuevo
-
+comentario para la 3.0
 LISTA DE VERSIONES
 ------------------
 1.0 - El programa permite procesar hasta 10 alumnos

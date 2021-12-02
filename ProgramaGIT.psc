@@ -16,7 +16,8 @@ Algoritmo sin_titulo
 	FinPara
 	
 	// listamos los alumnos
-	
+	//version asegurada
+	//PRograma cambiado para la version 3.0
 	Para i<-0 hasta num_alum-1 Hacer
 		
 		Escribir "ALUMNO N? ",i+1,nombre[i];
